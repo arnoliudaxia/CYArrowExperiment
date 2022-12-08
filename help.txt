@@ -1,0 +1,12 @@
+用户玩游戏地址：https://jumpgame.arnoliu.top/ （打开较慢别急）
+直接访问 https://jumpuploaddata.arnoliu.top 可以查看参与人数
+https://jumpuploaddata.arnoliu.top/getAllData 获取所有数据
+https://jumpuploaddata.arnoliu.top/getUsers	获取所以参与用户
+https://jumpuploaddata.arnoliu.top/getUserData?test@qq.com	获取某个用户的数据
+
+期望总人数<10W
+期望单日总人数<1W
+期望每分钟提交<1千次
+
+需要维护请联系liu20161225@qq.com
+加急事务可联系liuyf7@shanghaitech.edu.cn
